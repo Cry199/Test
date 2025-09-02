@@ -19,10 +19,10 @@ CONFIG = {
     },
     "REDE_CREDITO": {
         "limite_valor": 1000,
-        "conta_acima_limite": "4002",
-        "conta_abaixo_limite": "10366",
+        "conta_acima_limite": "40002",
+        "conta_abaixo_limite": "40021",
         "historico_acima_limite": "262",
-        "historico_abaixo_limite": "343"
+        "historico_abaixo_limite": "229"
     }
 }
 
